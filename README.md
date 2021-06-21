@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @EBRogers
+- 👀 I have been programming in python for 10 years on and off. My background is in Microbiology and Public health.
+- 🌱 Currently I'm...
+- Building with Pandas, Plotly
+- Integrating APIs into analysis pipelines, specifically REDCap's API
+- Creating my own modules
+- 📫 Reach me on here if you like
