@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EBRogers
 - 👀 I have been programming in python for 10 years on and off. My background is in Microbiology, Public health, and healthcare quality improvment.
 - 🌱 Currently I'm...
-- Building with Pandas, Plotly
+- In the personal health informatics doctoral program at Northeastern University
+- Analyzing wearable movement data and health outcomes
 - Integrating APIs into analysis pipelines, specifically REDCap's API
 - 📫 Reach me on here if you like
