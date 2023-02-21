@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EBRogers
-- 👀 I have been programming in python for 10 years on and off. My background is in Microbiology, Public health, and healthcare quality improvment.
+- 👀 I have been programming in python for 10+ years on and off. My background is in Microbiology, Public health, and healthcare quality improvment.
 - 🌱 Currently I'm...
 - In the personal health informatics doctoral program at Northeastern University
-- Analyzing wearable movement data and health outcomes
-- Integrating APIs into analysis pipelines, specifically REDCap's API
+- Analyzing wearable accelerometry data and health outcomes
 - 📫 Reach me on here if you like
