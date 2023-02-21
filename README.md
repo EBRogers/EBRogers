@@ -3,4 +3,4 @@
 - 🌱 Currently I'm...
 - In the personal health informatics doctoral program at Northeastern University
 - Analyzing wearable accelerometry data and health outcomes
-- 📫 Reach me on here if you like
+- 📫 Reach me at rogers.eth{at}northeastern.edu
