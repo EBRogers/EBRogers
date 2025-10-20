@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EBRogers
-- 👀 I have been programming in python for 10+ years on and off. My background is in Microbiology, Public health, and healthcare quality improvment.
-- 🌱 Currently I'm...
-- In the personal health informatics doctoral program at Northeastern University
-- Analyzing wearable accelerometry data and health outcomes
+- 📖 I'm a PhD student in [Olga Vitek's lab](https://olga-vitek-lab.khoury.northeastern.edu) at Northeastern University
+- 🔬 I study statistical modeling of mass spectrometry imaging data
+- 🖥️ [Check out my site for more info](https://ebrogers.github.io)
 - 📫 Reach me at rogers.eth{at}northeastern.edu
